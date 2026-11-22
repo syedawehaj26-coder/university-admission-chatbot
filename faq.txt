@@ -1,0 +1,101 @@
+# faq.txt - knowledge base for the Bahria University H-11 Campus admission chatbot
+# Format: every entry has three lines: Question, Keywords (separated by commas), Answer.
+# Lines starting with # are comments and are ignored by the program.
+# Information checked on bahria.edu.pk on 21 November 2026. Dates and fees change every intake,
+# so re-check the official site and update this file before each admission season.
+
+Question: When do admissions open and close?
+Keywords: deadline, last date, closing date, open, close, closes, dates, schedule, timeline, spring, fall, intake, when, last day
+Answer: Spring 2027 admissions opened on 12 Oct 2026 and close on 17 Dec 2026. The last date for the registration fee is 18 Dec 2026. The entry test (BUET) starts on 19 Dec 2026, results come out on 24 Dec 2026, and regular classes begin on 25 Jan 2027. For reference, Fall 2026 admissions opened on 16 Mar 2026 (7 Apr 2026 for H-11 engineering programs) and closed on 23 Jul 2026. Fall 2027 dates have not been announced yet. Please also check the official admission notice for the confirmed date.
+
+Question: What are the eligibility criteria for undergraduate programs?
+Keywords: eligibility, eligible, criteria, requirement, requirements, minimum marks, percentage, qualification, qualify, fsc, intermediate, a level, o level, ibcc, equivalence, grades
+Answer: Engineering programs need at least 60% in F.Sc (Pre-Engineering) or equivalent. All other programs need at least 50% in F.Sc or equivalent. O/A-Level and foreign qualifications need an IBCC equivalence certificate. The minimum number of passed subjects is 8 for O Level and 3 for A Level.
+
+Question: What documents are required for admission?
+Keywords: documents, document, certificates, certificate, required, submit, cnic, form-b, marksheet, mark sheet, papers, bring, original, affidavit, attested
+Answer: You need your CNIC or Form-B; SSC certificate (or O-Level IBCC equivalence) and SSC marks sheet (or O-Level GCE); HSSC certificate (or A-Level IBCC equivalence) and HSSC Part-I and Part-II marks sheets (or A-Level GCE AS and A2); a Statement of Entry if A-Level results are awaited; HEC equivalence for foreign degrees; and an affidavit on plain paper if any result or equivalence is awaited. Print and fill the provisional admission form and bring it with all original documents on interview day.
+
+Question: Is there an entry test?
+Keywords: entry test, admission test, test, buet, syllabus, mcq, cbt, computer based test, test pattern, negative marking, sample paper, mock paper, subjects
+Answer: Yes. Applicants sit the Bahria University Entry Test (BUET), a computer-based test of 100 MCQs in 120 minutes. There is no negative marking for undergraduate tests. Engineering and computing programs: 30% Verbal Ability, 15% Quantitative Reasoning, 15% Analytical Reasoning, 10% Physics and 30% Maths. Earth and Environmental Sciences: 25% each of Verbal, Quantitative, Analytical, and Biology or Maths plus Chemistry and Physics. BS Psychology: 50% English, 25% General Knowledge and 25% Verbal Reasoning. Syllabus page: https://www.bahria.edu.pk/page/PageTemplate4?pageContentId=4663&WebsiteID=1
+
+Question: How do I apply?
+Keywords: apply, application, procedure, process, form, admission form, online, portal, register, registration, submit form, steps, link, how to apply
+Answer: Apply online at https://cms.bahria.edu.pk/Logins/Candidate/Login.aspx. Create an account, set your password from the email link, fill in the form and generate a fee voucher, pay the admission processing fee at any Alfalah or Allied Bank branch, print your entry test slip, appear in the BUET, check the merit list on www.bahria.edu.pk, attend your interview, and then pay the first semester fee.
+
+Question: How is merit decided and is there an interview?
+Keywords: merit, merit list, interview, selection, shortlisted, selected, select, choose, how are students admitted
+Answer: Merit is announced on the basis of the entry test result, your academic qualification marks (intermediate or equivalent) and the interview. Shortlisted candidates are called for an interview, so keep your original documents ready. Seats are limited, so admission depends on merit and the number of available seats.
+
+Question: Which undergraduate programs does the university offer?
+Keywords: undergraduate, program, programs, programme, bs, bachelor, degree, degrees, courses, offer, offered, departments, majors, bcs, engineering, psychology, computer science, software, electrical, artificial intelligence, geology, diploma
+Answer: At H-11: Bachelor of Computer Engineering (BCE), Bachelor of Electrical Engineering (BEE), Bachelor of Software Engineering (BSE), BS Computer Science, BS Artificial Intelligence, BS Robotics and Intelligent Systems, BS Environmental Science, BS Geology, BS Geophysics, BS Remote Sensing and GIS, BS Psychology, BS Psychology (Clinical Psychology) and an Associate Degree in Computing. One-year diplomas include PGDs in Generative AI, DevOps, IC Design, Applied Geospatial Technologies and Electrical Power Systems, plus Advanced Diplomas in Clinical Psychology and in Infant, Child and Adolescent Mental Health.
+
+Question: Which graduate programs are available?
+Keywords: graduate, postgraduate, post graduate, masters, master, ms, mphil, phd, doctorate, doctoral
+Answer: MS Computer Engineering, MS Artificial Intelligence, MS Software Engineering, MS Electrical Engineering, MS Maintenance Engineering and Asset Management, MS Environmental Science, MS Geology, MS Geophysics, MS Environmental Policy and Management, and MS Clinical Psychology. PhD programs are also offered (for example Computer Science and Environmental Sciences in recent notices); check the PhD page on the official site for the current list.
+
+Question: How long is each degree?
+Keywords: duration, how long, length, years, year, how many years, bs years, degree years, years take, takes
+Answer: Bachelor's degrees take 4 years. The Associate Degree takes 2 years. Master's (MS) degrees take 2 years. Postgraduate and advanced diplomas take 1 year. PhD programs take 3 years.
+
+Question: What is the tuition fee per semester?
+Keywords: fee, fees, tuition, cost, charges, credit hour, price, bs fee, fee for bs, degree fee, fee structure, per semester, caution money, security deposit, admission fee, expensive, afford
+Answer: First-semester fees for Fall 2026 and Spring 2027 (including miscellaneous charges). Listed for H-11: ADP Computing Rs 113,608 (Rs 6,006 per credit hour); BS Remote Sensing and GIS Rs 108,182 (Rs 5,399 per credit hour); BS Psychology Rs 168,122 (Rs 8,729 per credit hour). Listed under Islamabad (ISB): BCE Rs 165,880; BEE Rs 175,310; BSE Rs 180,328; BS CS Rs 185,071; BS AI Rs 176,109; BS RIS Rs 141,512; BS Environmental Science Rs 105,488; BS Geology and Geophysics Rs 122,642 each; BS Clinical Psychology Rs 165,692. The table does not say which Islamabad campus the ISB rows apply to, so please confirm with the Fee Section. One-time charges: admission fee Rs 33,000 (non-refundable), caution money Rs 25,000 (refundable), degree fee Rs 10,000 and alumni charges Rs 1,500 (both paid with the last semester fee).
+
+Question: Can I pay fees in installments?
+Keywords: installment, installments, instalment, instalments, pay, payment, partial payment, pay later
+Answer: I do not have confirmed information about fee installments. Please ask the Fee Section on 051-9259500 Ext 3766.
+
+Question: What scholarships are available?
+Keywords: scholarship, scholarships, financial aid, financial assistance, merit scholarship, need based, waiver, loan, hec, peef, beef, ehsaas, discount, concession, funding, topper
+Answer: Bahria offers the Advance Merit Scholarship for Board Toppers, the BU Entrance Test Based Scholarship, the Cambridge System Outstanding Performer Scholarship, Merit Scholarships for Batch Toppers, the BU Financial Assistance Scholarship, a Student Study Loan / Revolving Fund, and postgraduate and PhD high-achiever awards. External schemes include PEEF, BEEF, HEC Need-Based, HEC Ehsaas Undergraduate, HEC Indigenous 5000 Fellowship and Workers Welfare Board scholarships. Details and forms: https://archive.bahria.edu.pk/scholarships/
+
+Question: What is the fee refund policy?
+Keywords: refund, refunds, money back, return fee, withdraw, withdrawal, cancel, cancellation
+Answer: A full (100%) refund is available up to the 7th day of the commencement of classes for the semester system, except the admission fee, which is non-refundable. The caution money is refundable on completion of the degree. For refund rules after the 7th day, see Chapter 9 of the Admissions Policy on the Bahria University website.
+
+Question: Is hostel accommodation available?
+Keywords: hostel, hostels, accommodation, dormitory, dorm, residence, stay, boarding, mess, girls hostel, live
+Answer: Yes, for female students. Ayesha Girls Hostel at the H-11 campus houses up to 160 students, with furnished rooms (heating and cooling), Wi-Fi, a mess, laundry, a common room, a gym/prayer area and 24/7 security. Allocation is based on merit, distance and conduct, and depends on availability. Hostel and mess charges are paid in advance each semester. For fees, rules and application forms contact the Hostel Warden on 051-9259500 Ext 3705. I do not have confirmed hostel information for male students.
+
+Question: Is there a transport service?
+Keywords: transport, bus, buses, shuttle, pick and drop, pick, drop, route, routes, van, point
+Answer: I do not have confirmed information about transport routes or fees. Please contact the Transport Office on 051-9259500 Ext 3358.
+
+Question: What are the library timings?
+Keywords: library, librarian, books, borrow, borrowing, timings, library hours, reading room
+Answer: I do not have confirmed library timings or borrowing rules. Please contact the Librarian on 051-9259500 Ext 3551.
+
+Question: What student societies or sports are available?
+Keywords: society, societies, club, clubs, sports, sport, gym, activities, futsal, cricket, basketball, badminton, volleyball, extracurricular, debating, music, games, fitness, ieee
+Answer: Clubs and societies include the Music Club, Dramatics Club, Community Support Program (CSP) Club, Debating Club, Media Club, Psychology Society and an IEEE student branch. Indoor sports facilities include basketball, volleyball, badminton, table tennis and futsal, plus separate male and female fitness centres and seating for 300 spectators. Outdoor grounds across the city are also available, and the university competes in HEC competitions and National Games.
+
+Question: When does the semester start and end?
+Keywords: semester, classes, class, begin, start, starts, commencement, calendar, academic calendar, term, session, orientation
+Answer: Fall 2026 classes started on 1 Sep 2026 (regular) and 4 Sep 2026 (weekend). Spring 2027 classes start on 25 Jan 2027 (regular) and 22 Jan 2027 (weekend). End dates for Spring 2027 are not yet published. Academic calendar: https://www.bahria.edu.pk/page/PageTemplate4?pageContentId=3209&websiteId=3
+
+Question: What is the minimum attendance requirement?
+Keywords: attendance, absent, absence, short attendance, leave, bunk, percent attendance
+Answer: I do not have confirmed information about the minimum attendance requirement. Please ask your department or the Examination office on 051-9259500 Ext 3506.
+
+Question: When are exams held and how are results announced?
+Keywords: exam, exams, examination, mid term, midterm, mid, final, finals, result, results, date sheet, datesheet, grade, gpa
+Answer: Mid-term and final exams follow the academic calendar, and results are declared after each semester's finals. Spring 2027 exam dates are not yet published. For reference, in Spring 2026 mid-terms were held 30 Mar to 7 Apr, finals 8 to 17 Jun, and results were declared on 2 Jul. Weekend classes have their own exam dates.
+
+Question: How can I contact the Admissions Office?
+Keywords: contact, admission office, admissions office, email, mail, phone, call, number, telephone, helpline, reach, talk, office hours, working hours
+Answer: Email: adadmission.h11@bahria.edu.pk. Phone: +92-51-9259493, or 051-9259500 Ext 3315 (PA to AD Admission) and Ext 3316 (AD Admission). Office hours are 9:00 AM to 5:00 PM, Monday to Friday.
+
+Question: How can I contact the Accounts or Fee Office?
+Keywords: accounts, accounts office, fee office, fee section, accountant, challan, voucher, fee contact, fee department
+Answer: Call the main campus number 051-9259500 and ask for the Fee Section (Ext 3766) or the Manager Accounts (Ext 3765). An email address and office timings for the Accounts Office are not listed on the site.
+
+Question: Where is the university located?
+Keywords: location, located, address, where, map, directions, h11, sector, plot, reach campus
+Answer: Bahria University, H-11 Campus, Plot 83, H-11/4, Islamabad. Main phone: 051-9259500 or 051-9259493. General email: info.h11@bahria.edu.pk. Bahria University UAN: 111-111-028.
+
+Question: What is Bahria University?
+Keywords: about, bahria, navy, established, founded, history, introduction, what is bahria
+Answer: Bahria University is a federally chartered public sector university established by the Pakistan Navy in 2000. Its H-11 campus in Islamabad was inaugurated in 2021 and hosts engineering, computing, earth and environmental sciences, and psychology programs.
