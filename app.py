@@ -34,10 +34,17 @@ THEME_CSS = """
   [data-testid="stChatMessage"]:has([data-testid*="user" i]) { background: #0b1f4d; border-color: #0b1f4d; }
   [data-testid="stChatMessage"]:has([data-testid*="user" i]) * { color: #ffffff !important; }
 
-  /* Typing box */
-  [data-testid="stBottom"], [data-testid="stBottom"] > div { background: #ffffff; }
-  [data-testid="stChatInput"] { border: 2px solid #0b1f4d; border-radius: 14px; background: #ffffff; }
-  [data-testid="stChatInput"] textarea { color: #0b1f4d; }
+  /* Typing box: white box, navy text, readable even if the browser is in dark mode */
+  [data-testid="stBottom"], [data-testid="stBottom"] > div { background: #ffffff !important; }
+  [data-testid="stChatInput"], [data-testid="stChatInput"] > div,
+  [data-testid="stChatInput"] [data-baseweb="textarea"], [data-testid="stChatInput"] [data-baseweb="base-input"],
+  [data-testid="stChatInput"] textarea { background: #ffffff !important; }
+  [data-testid="stChatInput"] { border: 2px solid #0b1f4d !important; border-radius: 14px; }
+  [data-testid="stChatInput"] textarea { color: #0b1f4d !important; -webkit-text-fill-color: #0b1f4d !important;
+          caret-color: #0b1f4d; }
+  [data-testid="stChatInput"] textarea::placeholder { color: #6b7a99 !important; -webkit-text-fill-color: #6b7a99 !important; opacity: 1; }
+  [data-testid="stChatInputSubmitButton"] { background: #0b1f4d !important; color: #ffffff !important; border-radius: 10px; }
+  [data-testid="stChatInputSubmitButton"] svg { fill: #ffffff !important; color: #ffffff !important; }
 
   /* Sidebar */
   [data-testid="stSidebar"] { background: #0b1f4d; }
