@@ -99,3 +99,15 @@ Answer: Bahria University, H-11 Campus, Plot 83, H-11/4, Islamabad. Main phone: 
 Question: What is Bahria University?
 Keywords: about, bahria, navy, established, founded, history, introduction, what is bahria
 Answer: Bahria University is a federally chartered public sector university established by the Pakistan Navy in 2000. Its H-11 campus in Islamabad was inaugurated in 2021 and hosts engineering, computing, earth and environmental sciences, and psychology programs.
+
+Question: Is this an official Bahria University chatbot?
+Keywords: official, unofficial, trust, reliable, genuine, authentic, verified, student project, trustworthy
+Answer: No. This is a student project made for an Information and Communication Technology course. Its answers come from the official Bahria University website and were checked in November 2026, but dates and fees can change. Please confirm important details with the admission office: adadmission.h11@bahria.edu.pk or 051-9259493.
+
+Question: Does this chatbot use an API or ChatGPT?
+Keywords: api, api key, chatgpt, openai, gemini, generative
+Answer: No. This chatbot does not use any API, API key or paid AI service. It is written in Python and finds answers by matching keywords against a prepared FAQ file (faq.txt), so it only answers what is stored there.
+
+Question: Where is the Admissions Office located?
+Keywords: admission office location, admissions office location, admission office located, admissions office located, where is the admission office, where is the admissions office, where is admission office, admission office, johar block, basement
+Answer: The Admissions Office is in the basement of the Johar Block at the H-11 Campus.

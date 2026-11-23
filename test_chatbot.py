@@ -23,6 +23,8 @@ TESTS = [
     ("A. Normal", "Is there an entry test?", "Is there an entry test?"),
     ("A. Normal", "What is the tuition fee per semester?", "What is the tuition fee per semester?"),
     ("A. Normal", "Is hostel accommodation available?", "Is hostel accommodation available?"),
+    ("A. Normal", "Is this an official Bahria University chatbot?", "Is this an official Bahria University chatbot?"),
+    ("A. Normal", "Where is the admission office located?", "Where is the Admissions Office located?"),
     # B. Rephrased questions and spelling mistakes
     ("B. Rephrased", "What is the application procedure?", "How do I apply?"),
     ("B. Rephrased", "How do I submit my admission form?", "How do I apply?"),
@@ -35,6 +37,8 @@ TESTS = [
     ("B. Rephrased", "Wat documnts do i need for admision?", "What documents are required for admission?"),
     ("B. Rephrased", "Is there a hostal for girls?", "Is hostel accommodation available?"),
     ("B. Rephrased", "How many years is a BS degree?", "How long is each degree?"),
+    ("B. Rephrased", "Did you use an API key or ChatGPT?", "Does this chatbot use an API or ChatGPT?"),
+    ("B. Rephrased", "Where can I find the admissions office?", "Where is the Admissions Office located?"),
     # C. Out-of-scope questions (the bot must NOT guess)
     ("C. Out-of-scope", "What is the weather in Islamabad today?", None),
     ("C. Out-of-scope", "Can you recommend a good pizza place?", None),

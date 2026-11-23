@@ -1,25 +1,29 @@
 No,Category,Question,Expected answer (FAQ entry),Actual answer (FAQ entry),Score,Result
-1,A. Normal,What is the last date to apply for BS programs?,When do admissions open and close?,When do admissions open and close?,10.12,PASS
-2,A. Normal,Which documents are required for admission?,What documents are required for admission?,What documents are required for admission?,7.24,PASS
-3,A. Normal,How can I apply online?,How do I apply?,How do I apply?,6.44,PASS
-4,A. Normal,What are the admission requirements?,What are the eligibility criteria for undergraduate programs?,What are the eligibility criteria for undergraduate programs?,2.56,PASS
-5,A. Normal,Where can I find the admission form?,How do I apply?,How do I apply?,7.31,PASS
-6,A. Normal,Is there an entry test?,Is there an entry test?,Is there an entry test?,11.27,PASS
-7,A. Normal,What is the tuition fee per semester?,What is the tuition fee per semester?,What is the tuition fee per semester?,15.29,PASS
-8,A. Normal,Is hostel accommodation available?,Is hostel accommodation available?,Is hostel accommodation available?,7.41,PASS
-9,B. Rephrased,What is the application procedure?,How do I apply?,How do I apply?,6.44,PASS
-10,B. Rephrased,How do I submit my admission form?,How do I apply?,How do I apply?,13.72,PASS
-11,B. Rephrased,When do admissions close?,When do admissions open and close?,When do admissions open and close?,6.22,PASS
-12,B. Rephrased,What papers should I bring for the interview?,What documents are required for admission?,What documents are required for admission?,5.78,PASS
-13,B. Rephrased,Do you give any scholarships to poor students?,What scholarships are available?,What scholarships are available?,3.22,PASS
-14,B. Rephrased,How can I call the admissions office?,How can I contact the Admissions Office?,How can I contact the Admissions Office?,13.65,PASS
-15,B. Rephrased,Where is H-11 campus located?,Where is the university located?,Where is the university located?,12.88,PASS
-16,B. Rephrased,Which masters programs do you have?,Which graduate programs are available?,Which graduate programs are available?,4.32,PASS
-17,B. Rephrased,Wat documnts do i need for admision?,What documents are required for admission?,What documents are required for admission?,4.02,PASS
-18,B. Rephrased,Is there a hostal for girls?,Is hostel accommodation available?,Is hostel accommodation available?,11.27,PASS
-19,B. Rephrased,How many years is a BS degree?,How long is each degree?,How long is each degree?,15.74,PASS
-20,C. Out-of-scope,What is the weather in Islamabad today?,Fallback message,Fallback message,0.0,PASS
-21,C. Out-of-scope,Can you recommend a good pizza place?,Fallback message,Fallback message,0.0,PASS
-22,C. Out-of-scope,Who is the prime minister of Pakistan?,Fallback message,Fallback message,0.0,PASS
-23,C. Out-of-scope,How do I fix my laptop screen?,Fallback message,Fallback message,0.0,PASS
-24,C. Out-of-scope,Tell me a joke,Fallback message,Fallback message,0.0,PASS
+1,A. Normal,What is the last date to apply for BS programs?,When do admissions open and close?,When do admissions open and close?,10.51,PASS
+2,A. Normal,Which documents are required for admission?,What documents are required for admission?,What documents are required for admission?,7.45,PASS
+3,A. Normal,How can I apply online?,How do I apply?,How do I apply?,6.66,PASS
+4,A. Normal,What are the admission requirements?,What are the eligibility criteria for undergraduate programs?,What are the eligibility criteria for undergraduate programs?,2.67,PASS
+5,A. Normal,Where can I find the admission form?,How do I apply?,How do I apply?,7.45,PASS
+6,A. Normal,Is there an entry test?,Is there an entry test?,Is there an entry test?,11.66,PASS
+7,A. Normal,What is the tuition fee per semester?,What is the tuition fee per semester?,What is the tuition fee per semester?,15.89,PASS
+8,A. Normal,Is hostel accommodation available?,Is hostel accommodation available?,Is hostel accommodation available?,7.69,PASS
+9,A. Normal,Is this an official Bahria University chatbot?,Is this an official Bahria University chatbot?,Is this an official Bahria University chatbot?,7.03,PASS
+10,A. Normal,Where is the admission office located?,Where is the Admissions Office located?,Where is the Admissions Office located?,28.54,PASS
+11,B. Rephrased,What is the application procedure?,How do I apply?,How do I apply?,6.66,PASS
+12,B. Rephrased,How do I submit my admission form?,How do I apply?,How do I apply?,14.13,PASS
+13,B. Rephrased,When do admissions close?,When do admissions open and close?,When do admissions open and close?,6.43,PASS
+14,B. Rephrased,What papers should I bring for the interview?,What documents are required for admission?,What documents are required for admission?,6.01,PASS
+15,B. Rephrased,Do you give any scholarships to poor students?,What scholarships are available?,What scholarships are available?,3.33,PASS
+16,B. Rephrased,How can I call the admissions office?,How can I contact the Admissions Office?,How can I contact the Admissions Office?,13.04,PASS
+17,B. Rephrased,Where is H-11 campus located?,Where is the university located?,Where is the university located?,12.01,PASS
+18,B. Rephrased,Which masters programs do you have?,Which graduate programs are available?,Which graduate programs are available?,4.48,PASS
+19,B. Rephrased,Wat documnts do i need for admision?,What documents are required for admission?,What documents are required for admission?,4.12,PASS
+20,B. Rephrased,Is there a hostal for girls?,Is hostel accommodation available?,Is hostel accommodation available?,11.66,PASS
+21,B. Rephrased,How many years is a BS degree?,How long is each degree?,How long is each degree?,16.39,PASS
+22,B. Rephrased,Did you use an API key or ChatGPT?,Does this chatbot use an API or ChatGPT?,Does this chatbot use an API or ChatGPT?,16.66,PASS
+23,B. Rephrased,Where can I find the admissions office?,Where is the Admissions Office located?,Where is the Admissions Office located?,19.31,PASS
+24,C. Out-of-scope,What is the weather in Islamabad today?,Fallback message,Fallback message,0.0,PASS
+25,C. Out-of-scope,Can you recommend a good pizza place?,Fallback message,Fallback message,0.0,PASS
+26,C. Out-of-scope,Who is the prime minister of Pakistan?,Fallback message,Fallback message,0.0,PASS
+27,C. Out-of-scope,How do I fix my laptop screen?,Fallback message,Fallback message,0.0,PASS
+28,C. Out-of-scope,Tell me a joke,Fallback message,Fallback message,0.0,PASS

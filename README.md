@@ -9,9 +9,10 @@ prepared FAQ file (`faq.txt`) using keyword matching. No paid AI service or API 
 |---|---|
 | `faq.txt` | The knowledge base: Question / Keywords / Answer entries |
 | `chatbot.py` | The logic: cleans text, matches keywords, returns an answer or a fallback |
-| `app.py` | The Streamlit chat window |
-| `test_chatbot.py` | Runs 24 sample questions and saves `test_results.csv` |
-| `test_results.csv` | Ready-made test table for your report (24 of 24 passed) |
+| `app.py` | The Streamlit chat window (navy blue and white theme, colours set near the top) |
+| `.streamlit/config.toml` | Optional theme settings that force a light navy and white look |
+| `test_chatbot.py` | Runs 28 sample questions and saves `test_results.csv` |
+| `test_results.csv` | Ready-made test table for your report (28 of 28 passed) |
 | `requirements.txt` | The one package to install (`streamlit`) |
 
 ## Part 1: Run it on your computer (first time)
@@ -41,7 +42,7 @@ If `pip` or `streamlit` is "not recognized", try `python -m pip install -r requi
 python test_chatbot.py
 ```
 
-This runs 24 questions in three groups: 8 normal, 11 rephrased or misspelled, and 5 out-of-scope.
+This runs 28 questions in three groups: 10 normal, 13 rephrased or misspelled, and 5 out-of-scope.
 It prints PASS or FAIL for each and saves `test_results.csv` with the expected answer, actual answer
 and result, which is exactly the table your proposal promises. Open the CSV in Excel and paste it
 into your report.
